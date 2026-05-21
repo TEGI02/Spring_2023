@@ -1,2 +1,0 @@
-new Test
-More text in this file

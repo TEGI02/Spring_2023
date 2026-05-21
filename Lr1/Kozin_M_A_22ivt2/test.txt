@@ -1,4 +1,0 @@
-test
-new test
-new str
-new test 2
